@@ -8,15 +8,7 @@
 
 广外帮帮学院，是一个B2C模式的职业技能在线教育系统，分为前台用户系统和后台运营平台。
 
-# 二、系统模块
-<table>
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314174755805.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/>
-      	</td>
-    </tr>        
-</table>
 
-# 三、系统架构
 
 **架构设计需要考虑的几个方面：**
 
@@ -26,24 +18,10 @@
 - **安全性：**系统的信息有一定的隐私性，例如用户的个人身份信息，不包含强隐私（例如玉照、情感）的信息，因此使用账号密码管理、数据库访问权限控制即可。
 - **成本：**视频类网站的主要成本在于服务器成本、流量成本、存储成本、流媒体研发成本，中小型公司可以考虑使用云服务器和云服务。
 
-  
-<table>
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314174813599.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>        
-</table>
 
-# 四、项目结构
 
-<table>
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314180753236.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314181901394.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr> 
-</table>
-# 五、环境部署
+
+# 二、环境部署
 
 ### 准备工作
 

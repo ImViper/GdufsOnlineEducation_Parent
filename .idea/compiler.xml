@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="GrainOnlineEducation_Eureka" />
+        <module name="GrainOnlineEducation_OSS" />
+        <module name="GrainOnlineEducation_Gateway" />
+        <module name="GrainOnlineEducation_Video" />
+        <module name="GrainOnlineEducation_Statistics" />
+        <module name="GrainOnlineEducation_Ucenter" />
+        <module name="GrainOnlineEducation_Common" />
+        <module name="GrainOnlineEducation_Teacher" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GrainOnlineEducation_Common" target="1.8" />
+      <module name="GrainOnlineEducation_Eureka" target="1.8" />
+      <module name="GrainOnlineEducation_Gateway" target="1.8" />
+      <module name="GrainOnlineEducation_OSS" target="1.8" />
+      <module name="GrainOnlineEducation_Parent-master" target="1.8" />
+      <module name="GrainOnlineEducation_Statistics" target="1.8" />
+      <module name="GrainOnlineEducation_Teacher" target="1.8" />
+      <module name="GrainOnlineEducation_Ucenter" target="1.8" />
+      <module name="GrainOnlineEducation_Video" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="GrainOnlineEducation_Common" options="-parameters" />
+      <module name="GrainOnlineEducation_Eureka" options="-parameters" />
+      <module name="GrainOnlineEducation_Gateway" options="-parameters" />
+      <module name="GrainOnlineEducation_OSS" options="-parameters" />
+      <module name="GrainOnlineEducation_Statistics" options="-parameters" />
+      <module name="GrainOnlineEducation_Teacher" options="-parameters" />
+      <module name="GrainOnlineEducation_Ucenter" options="-parameters" />
+      <module name="GrainOnlineEducation_Video" options="-parameters" />
+    </option>
+  </component>
+</project>

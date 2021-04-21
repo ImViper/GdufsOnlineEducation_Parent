@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_Common/GrainOnlineEducation_Common.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_Common/GrainOnlineEducation_Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_Eureka/GrainOnlineEducation_Eureka.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_Eureka/GrainOnlineEducation_Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_Gateway/GrainOnlineEducation_Gateway.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_Gateway/GrainOnlineEducation_Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_OSS/GrainOnlineEducation_OSS.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_OSS/GrainOnlineEducation_OSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GrainOnlineEducation_Parent-master.iml" filepath="$PROJECT_DIR$/.idea/GrainOnlineEducation_Parent-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_Statistics/GrainOnlineEducation_Statistics.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_Statistics/GrainOnlineEducation_Statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_Teacher/GrainOnlineEducation_Teacher.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_Teacher/GrainOnlineEducation_Teacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_Ucenter/GrainOnlineEducation_Ucenter.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_Ucenter/GrainOnlineEducation_Ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrainOnlineEducation_Video/GrainOnlineEducation_Video.iml" filepath="$PROJECT_DIR$/GrainOnlineEducation_Video/GrainOnlineEducation_Video.iml" />
+    </modules>
+  </component>
+</project>
